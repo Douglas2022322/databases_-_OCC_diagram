@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T11:12:22.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PKPF41WHsnWhL5I8CnmI" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T11:14:41.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rxaYSXFuH40xnuSqiaC-" version="22.1.4" type="github">
   <diagram name="Page-1" id="M-RLzAj2AMlfBaLc5TPs">
     <mxGraphModel dx="1032" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -61,16 +61,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FfvsWTbLaAqbSTWe4wbG-19" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;br&gt;DatabaseOperationsAdmin&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; font-weight: 400; text-align: left; background-color: rgb(0, 0, 0);&quot;&gt;&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="360" width="160" height="200" as="geometry" />
+          <mxGeometry x="40" y="360" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="FfvsWTbLaAqbSTWe4wbG-20" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="FfvsWTbLaAqbSTWe4wbG-19" vertex="1">
-          <mxGeometry y="40" width="160" height="80" as="geometry" />
+          <mxGeometry y="40" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FfvsWTbLaAqbSTWe4wbG-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="FfvsWTbLaAqbSTWe4wbG-19" vertex="1">
-          <mxGeometry y="120" width="160" height="8" as="geometry" />
+          <mxGeometry y="120" width="180" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="FfvsWTbLaAqbSTWe4wbG-22" value="+ removeUser(user)&lt;br&gt;+ viewUsers()&lt;br&gt;+&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="FfvsWTbLaAqbSTWe4wbG-19" vertex="1">
-          <mxGeometry y="128" width="160" height="72" as="geometry" />
+        <mxCell id="FfvsWTbLaAqbSTWe4wbG-22" value="+ removeUser(user)&lt;br&gt;+ viewUsers()&lt;br&gt;+ reviewUserOperations(user)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="FfvsWTbLaAqbSTWe4wbG-19" vertex="1">
+          <mxGeometry y="128" width="180" height="62" as="geometry" />
         </mxCell>
         <mxCell id="j-LK9VLU8uHjj5R_PVYd-1" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="FfvsWTbLaAqbSTWe4wbG-13" target="FfvsWTbLaAqbSTWe4wbG-8" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
