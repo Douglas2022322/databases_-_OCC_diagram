@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T17:47:36.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L0teN1HLPW1QejrgSWJP" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T17:48:53.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9SKghvSn42Zrk16ORCJE" version="22.1.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="511" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -100,7 +100,7 @@
             <mxRectangle width="30" height="240" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-29" value="username char(50) NOT NULL&#xa;password&#xa;name&#xa;lastName&#xa;gender&#xa;dateOfBirth&#xa;ppsn&#xa;email&#xa;&#xa;grossIncome&#xa;taxCredits&#xa;&#xa;PAYEdue&#xa;USCdue&#xa;PRSIdue&#xa;&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-27" vertex="1">
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-29" value="username char(50) NOT NULL&#xa;password&#xa;name&#xa;lastName&#xa;gender&#xa;dateOfBirth&#xa;ppsn&#xa;email&#xa;&#xa;grossIncome&#xa;taxCredits&#xa;&#xa;PAYEdue&#xa;USCdue&#xa;PRSIdue&#xa;incomeAfterCredit&#xa;totalTaxesToPay&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-27" vertex="1">
           <mxGeometry x="30" width="250" height="240" as="geometry">
             <mxRectangle width="250" height="240" as="alternateBounds" />
           </mxGeometry>
