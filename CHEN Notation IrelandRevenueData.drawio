@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T10:38:20.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="U0JBoorjIpXjz3e7jZvk" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T10:54:37.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NVu2o08ClqVeoLGwJpNj" version="22.1.11" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1032" dy="3330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -81,7 +81,7 @@
             <mxRectangle width="280" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W0QEEeLjyXTuyP9DG2AP-1" value="INITIAL CHEN notation&lt;br&gt;1NF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="W0QEEeLjyXTuyP9DG2AP-1" value="1NF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="-860" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W0QEEeLjyXTuyP9DG2AP-9" value="Final CHEN notation&lt;br&gt;3NF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
